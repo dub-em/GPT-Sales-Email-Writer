@@ -1,11 +1,10 @@
-# Cricket Tournament SImulator 
+# AI-Driven Email Generator
 
 ### Purpose of this Project 
-+ This is a brief project which simulates an entire cricket tournament with multiple teams while making use of the fundamental principle of OOP (Object Oriented Programming).
-+ Streamlit was used for the front-end of this project, while other in-built python module (like random etc.) were used in combination with the fundamental concepts of object oriented programming to construct the logic behind the simulation.
++ Uses the details of a user and their preferences to construct personalized sales email. (Privacy and consent is of utmost importance as well)
 
 #### Starting Command
 ```streamlit run app.py```
 
-#### Link to Loom Video Brief Explanation of the Assignment Solution
-+ https://www.loom.com/share/061f8d0a45924fe2aee9e0321cfa8a82?sid=204f7d19-0b14-4839-97b5-53046097e1fa
+#### Link to Loom Video Brief Explanation of the Concept
++ https://www.loom.com/share/bf5c0874904e4617951cc85a371c0bb1?sid=0414ab4d-0337-49fd-9189-6920416eda8e
